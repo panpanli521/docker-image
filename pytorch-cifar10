@@ -1,1 +1,1 @@
-FROM gcs://kfserving-samples/models/pytorch/cifar10
+FROM gs://kfserving-samples/models/pytorch/cifar10
