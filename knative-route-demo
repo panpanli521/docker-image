@@ -1,0 +1,1 @@
+FROM gcr.io/knative-samples/knative-route-demo:blue
